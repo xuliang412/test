@@ -12,6 +12,11 @@ namespace TestGit
         {
             
         }
+        /// <summary>
+        /// 这是一个加法运算方法
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
         public void add(int a,int b)
         {
             Console.WriteLine(a + b);
