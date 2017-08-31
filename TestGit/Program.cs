@@ -16,5 +16,9 @@ namespace TestGit
         {
             Console.WriteLine(a + b);
         }
+        public void print(int a)
+        {
+            Console.WriteLine(a);
+        }
     }
 }
